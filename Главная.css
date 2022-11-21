@@ -103,7 +103,9 @@
   }
 
   .u-section-1 .u-group-1 {
-    margin: 58px 0 19px auto;
+    margin-top: 52px;
+    margin-left: auto;
+    margin-bottom: 60px;
   }
 }
 
@@ -246,7 +248,7 @@
   }
 
   .u-section-3 .u-group-1 {
-    min-height: 97px;
+    min-height: 127px;
     margin-top: 50px;
   }
 
